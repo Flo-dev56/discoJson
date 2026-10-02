@@ -54,6 +54,10 @@ public class Main {
                         break;
                     case 8:
                         Json.remplirJson(Discotheque.getDiscotheque());
+                        break;
+                    case 9:
+                        Json.lireJson();
+                        break;
                     case 0:
                         System.out.println("Au revoir !");
                         c.arretLecture();
