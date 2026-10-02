@@ -1,0 +1,15 @@
+[ {
+  "annee" : "1999-11-21",
+  "auteur" : {
+    "nom" : "test",
+    "prenom" : "test"
+  },
+  "chemin" : "src/main/resources/musique/monfichier.mp3",
+  "duree" : 2,
+  "fichier" : "C:\\exosJava\\Discotheque-p2\\src\\main\\resources\\musique\\monfichier.mp3",
+  "format" : "mp3",
+  "nom" : "monfichier",
+  "quantite" : 1,
+  "support" : "Fichier Numérique",
+  "taille" : 2.0
+} ]
